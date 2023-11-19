@@ -3,7 +3,7 @@ The codes to reproduce the simulation results for the work "An Unsupervised Deep
 
 # NOTICE
 
-1. The code uploaded is free of dataset that can be generated independently based on the file ~/HeBF/generate_data.m.
+- The code uploaded is free of dataset that can be generated independently based on the file ~/HeBF/generate_data.m.
 
 # RELATED PACKAGE VERSION
 
